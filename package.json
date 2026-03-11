@@ -56,7 +56,7 @@
   "emoji-country-flags": "^1.0.3",
   "express": "^4.18.1",
   "fb-downloader-scrapper": "^1.0.1",
-  "file-type": "^17.1.1",
+  "file-type": "^21.3.1",
   "file_size_url": "^1.0.4",
   "fluid-spotify.js": "*",
   "fluent-ffmpeg": "^2.1.2",
